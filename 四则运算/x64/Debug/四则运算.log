@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\练习时长两年半的ikun\四则运算\四则运算\源.cpp(44,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\练习时长两年半的ikun\四则运算\四则运算\源.cpp(52,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\练习时长两年半的ikun\四则运算\四则运算\源.cpp(69,16): warning C4101: “op3”: 未引用的局部变量
+D:\练习时长两年半的ikun\四则运算\四则运算\源.cpp(65,15): warning C4101: “d”: 未引用的局部变量
+D:\练习时长两年半的ikun\四则运算\四则运算\源.cpp(165,18): warning C4101: “d”: 未引用的局部变量
+  四则运算.vcxproj -> D:\练习时长两年半的ikun\四则运算\x64\Debug\四则运算.exe
